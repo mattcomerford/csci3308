@@ -5,3 +5,5 @@ Partner 1: Laura Matuszewska
 Partner 2: Thomas Kelly
 
 Fixed the merge conflict
+
+This might cause a merge conflict
