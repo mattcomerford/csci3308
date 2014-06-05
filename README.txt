@@ -1,6 +1,7 @@
 Matt Comerford - csci3308
 IC1: Git Practice Assignment
 
-Partner: Laura Matuszewska
+Partner 1: Laura Matuszewska
+Partner 2: Thomas Kelly
 
-This might cause a merge conflict
+Fixed the merge conflict
